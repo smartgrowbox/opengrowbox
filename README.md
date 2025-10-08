@@ -1,6 +1,6 @@
 # OpenGrowbox
 
-A system for growing plants automatically designed for the RaspberryPi or any other single board GPIO board. 
+A system for growing plants automatically designed for the RaspberryPi. 
 Open source software & hardware. Fully featured for hydroponics or soil based growing. 
 
 ## Features 
